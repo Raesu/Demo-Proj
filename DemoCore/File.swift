@@ -12,6 +12,6 @@ import FirebaseDatabase
 class MyClass {
 
     // uncomment this line to see the Mach-O linker error
-//    static let database = FIRDatabase.database()
+    static let database = FIRDatabase.database()
 
 }
